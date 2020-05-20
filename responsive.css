@@ -13,7 +13,7 @@
  #lezioni .row>.right {
    width: 100%;
    float: none;
-   font-size: 22px;
+   font-size: 15px;
  }
 
 /* BLOCCO STEPS */
@@ -22,13 +22,24 @@
 #steps .row>.right {
   float: none;
   width: 100%;
-  font-size: 22px;
+  font-size: 15px;
 }
 
 #steps .row>.central img,
 #steps .row>.right img {
   margin-top: 20px;
 }
+
+/* BLOCCO PERCHE */
+#why .row>.first,
+#why .row>.second,
+#why .row>.third {
+  width: 100%;
+  margin-top: 40px;
+  font-size: 15px;
+}
+
+
 
 
 
