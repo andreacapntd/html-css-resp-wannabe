@@ -4,8 +4,11 @@
 
   .row {
     max-width: 100%;
-
     margin-top: 0;
+  }
+
+  h3 {
+    font-size: 25px;
   }
  /* BLOCCO LEZIONI */
  #lezioni .row>.left,
@@ -13,6 +16,10 @@
    width: 100%;
    float: none;
    font-size: 15px;
+ }
+
+ #lezioni .row img {
+   margin-top: 30px;
  }
 
 /* BLOCCO STEPS */
@@ -24,9 +31,9 @@
   font-size: 15px;
 }
 
-#steps .row>.central img,
-#steps .row>.right img {
-  margin-top: 20px;
+
+#steps .row img {
+  margin-top: 30px;
 }
 
 /* BLOCCO PERCHE */
