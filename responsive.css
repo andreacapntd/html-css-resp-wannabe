@@ -3,7 +3,7 @@
 @media screen and (max-width:419px) {
 
   .row {
-    max-width: 100%;
+    width: 100%;
     margin-top: 0;
   }
 
@@ -31,7 +31,6 @@
   font-size: 15px;
 }
 
-
 #steps .row img {
   margin-top: 30px;
 }
@@ -43,11 +42,5 @@
   margin-top: 40px;
   font-size: 15px;
 }
-
-
-
-
-
-
 
 }
