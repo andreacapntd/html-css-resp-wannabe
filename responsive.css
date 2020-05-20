@@ -16,6 +16,19 @@
    font-size: 22px;
  }
 
+/* BLOCCO STEPS */
+#steps .row>.left,
+#steps .row>.central,
+#steps .row>.right {
+  float: none;
+  width: 100%;
+  font-size: 22px;
+}
+
+#steps .row>.central img,
+#steps .row>.right img {
+  margin-top: 20px;
+}
 
 
 
